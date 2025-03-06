@@ -1,0 +1,16 @@
+flask==2.0.1
+werkzeug==2.0.1
+flask-cors==3.0.10
+flask-socketio==5.1.1
+eventlet==0.33.0
+python-engineio==4.2.1
+python-socketio==5.4.0
+numpy
+opencv-python
+# For real hardware implementation (commented out for simulation)
+# RPi.GPIO==0.7.1
+# adafruit-circuitpython-pca9685==3.4.1
+# adafruit-circuitpython-ina219==3.4.11
+# pyaudio==0.2.12
+# whisper==1.0.0
+# ollama==0.1.0
